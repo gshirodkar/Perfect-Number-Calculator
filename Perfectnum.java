@@ -1,5 +1,5 @@
 public class basic {
-	public static boolean perf(double n){
+	public static boolean isperfectnum(double n){
 		double sum= 0;
 		for(double i= 1;i < n;i++){
 			if(n % i == 0){
