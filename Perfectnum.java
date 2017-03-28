@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+//This is the BIG DECIMAL VERSION!
 import javax.swing.JOptionPane;
 public class basic {
 	public static boolean isperfectnum(double n){
