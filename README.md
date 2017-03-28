@@ -1,4 +1,4 @@
-# Perfect-Number-Calculator
+# Perfect-Number-Calculator for VERY LARGE NUMBERS
 A (very) simple method to calculate perfect numbers using the java programming language.
 
 A Perfect number is a number whose factors add up to the number itself.
