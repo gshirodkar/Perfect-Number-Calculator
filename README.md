@@ -16,7 +16,7 @@ I recently uploaded the lastest build of my program. The build uses the master b
 
 Heres a link to it. 
 
-https://github.com/gshirodkar/Perfect-Number-Calculator/releases
+[Link](https://github.com/gshirodkar/Perfect-Number-Calculator/releases)
 
 
 Have fun calculating numbers!
