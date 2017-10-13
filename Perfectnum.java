@@ -15,9 +15,9 @@ public class basic {
 	public static void main(String[]args){
 		
 		
-		String numberofperfectnums = JOptionPane.showInputDialog("Enter the amount of perfect numbers to calculate. \n WARNING: The digits in perfect numbers increases rapidly.");
+		String numberofperfectnums = JOptionPane.showInputDialog("Please enter the amount of perfect numbers to calculate. \n WARNING: The digits in perfect numbers increases rapidly.");
 		int pfnums = Integer.parseInt(numberofperfectnums);//pfnums is the number of perfectnms to calculate
-		JOptionPane.showMessageDialog(null,"The program will now calculate the perfect numbers up to the specified amount. \n For large numbers, please be patient as it will take a while.");
+		JOptionPane.showMessageDialog(null,"The program will now calculate the perfect numbers up to the specified amount. \n For large values, please be patient as it will take a while.");
 		ArrayList perfectnums = new ArrayList();
 	int perfectnumberlist=0;//counter for number of perfectnums
 		double count=1;
@@ -30,6 +30,6 @@ public class basic {
 			
 		}
 		
-		JOptionPane.showMessageDialog(null,perfectnums);
+		JOptionPane.showMessageDialog(null,"Here are your perfect numbers! : "+perfectnums);
 	}
 }
