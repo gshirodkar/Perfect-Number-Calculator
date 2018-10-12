@@ -19,7 +19,7 @@ If you reach this limit, you deserve a prize! Email me at the site shown on the 
 
 ***Where to get the latest release?***
 
-I recently uploaded the lastest build of my program. The build uses the master branch, so (hopefully) no bugs.
+I recently uploaded the lastest build of my program. The build uses the master branch, so (hopefully) no bugs. The current master branch causes issues, which I am currently working on, the builds however, are fine. They lack the bigInteger implementation though.
 
 Heres a link to it. 
 
