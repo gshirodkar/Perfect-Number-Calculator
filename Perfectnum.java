@@ -1,4 +1,4 @@
-
+//This program calculates perfect numbers using bigintegers
 import java.util.*;
 import java.math.*;
 
