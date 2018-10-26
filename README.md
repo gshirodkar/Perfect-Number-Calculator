@@ -1,4 +1,4 @@
-# Perfect-Number-Calculator
+# Perfect Number Calculator
 
 This is a *extremely* simple program to calculate perfect numbers using the java programming language.
 
