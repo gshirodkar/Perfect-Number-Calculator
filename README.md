@@ -1,6 +1,6 @@
-# Perfect-Number-Calculator
+# Perfect Number Calculator
 
-This is a *very* simple program to calculate perfect numbers using the java programming language.
+This is a *extremely* simple program to calculate perfect numbers using the java programming language.
 
 A _perfect number_ is a number whose factors add up to the number itself.
 
