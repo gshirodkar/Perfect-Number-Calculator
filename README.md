@@ -4,7 +4,7 @@ This is a *extremely* simple program to calculate perfect numbers using the java
 
 A _perfect number_ is a number whose factors add up to the number itself.
 
-For example 6 and 28 are both perfect numbers as the factors of 6 are 2,3, and 1. (2+3+1=6)
+For example, 6 and 28 are both perfect numbers as the factors of 6 are 2,3, and 1. (2+3+1=6)
 
 And the Factors of 28 are 2+14+4+7+1=28.
 
